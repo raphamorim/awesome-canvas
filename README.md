@@ -2,13 +2,13 @@
 
 A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-### Contributing
+## Contributing
 
 Please take a quick gander at the [contribution guidelines](https://github.com/raphamorim/awesome-canvas/blob/master/CONTRIBUTING.md) first.
 
-### Contents
+## Summary
 
-- [Awesome Canvas](#awesome-canvas)
+- [Canvas](#canvas)
     - [Animation](#animation)
 
 - [Tools](#tools)
@@ -21,7 +21,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Websites](#websites)
     - [Tutorials](#tutorials)
 
-## Animation
+## Canvas
+
+### Animation
 
 *Some best examples about animation with canvas.*
 
@@ -30,28 +32,28 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 
 
-# Tools
+## Tools
 
 Go software and plugins.
 
 
 
 
-# Resources
+## Resources
 
 Where to discover more about Canvas.
 
-## Benchmarks
+### Benchmarks
 
-## Conferences
+### Conferences
 
-## E-Books
+### E-Books
 
-## Twitter
+### Twitter
 
 * [@soulwire](https://twitter.com/soulwire)
 * [@raphamundi](https://twitter.com/raphamundi)
 
-## Websites
+### Websites
 
-## Tutorials
+### Tutorials
