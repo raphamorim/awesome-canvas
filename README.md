@@ -9,7 +9,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 ## Summary
 
 - [Canvas](#canvas)
-    - [Animation](#animation)
+    - [Examples](#examples)
 
 - [Tools](#tools)
 
@@ -23,11 +23,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ## Canvas
 
-### Animation
+### Examples
 
-*Some best examples about animation with canvas.*
+*Some best examples about with canvas.*
 
-* [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie, [source code](https://github.com/raphamorim/canvas-experiments).
+* [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
+* [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
+* [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
 
 
 
