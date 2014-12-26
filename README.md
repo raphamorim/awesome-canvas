@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [Resources](#resources)
     - [Benchmarks](#benchmarks)
     - [Conferences](#conferences)
-    - [E-Books](#e-books)
+    - [Books](#books)
     - [Twitter](#twitter)
     - [Websites](#websites)
     - [Tutorials](#tutorials)
@@ -51,7 +51,10 @@ Where to discover more about Canvas.
 
 ### Conferences
 
-### E-Books
+### Books
+
+- [HTML5 Canvas](http://shop.oreilly.com/product/0636920013327.do) by Steve Fulton, Jeff Fulton - O'Reilly. Updated: [2nd Edition](http://shop.oreilly.com/product/0636920026266.do)
+- [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by  Don Cowan
 
 ### Twitter
 
