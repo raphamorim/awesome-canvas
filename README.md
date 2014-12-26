@@ -60,4 +60,10 @@ Where to discover more about Canvas.
 
 ### Websites
 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+- [Dive Into HTML5 • Canvas](http://diveintohtml5.info/canvas.html)
+- [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/) 
+- [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
+
+
 ### Tutorials
