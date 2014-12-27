@@ -1,7 +1,10 @@
 # Contribution Guidelines
 
-- **To add to the list:** Submit a pull request
-- **To remove from the list:** Open an issue
+**To add to the list:** Submit a pull request
+**To remove from the list:** Open an issue
+
+
+Adding in the list (PR Guideline)
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
@@ -9,7 +12,7 @@
 - Descriptions should be clear, concise, and non-promotional
 - Descriptions should follow the link, on the same line
 
-Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
+Please contribute links to examples/books you have used or are familiar with. This will help ensure high-quality entries.
 
 
 ## Quality standard
