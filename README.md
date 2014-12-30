@@ -27,12 +27,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 *Some best examples about with canvas.*
 
+* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
+* [LucidChart](http://www.lucidchart.com/documents/demo)
+* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
+* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
-
+* [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 
 
 
@@ -40,8 +44,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 Go software and plugins.
 
-
-
+- [processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
+    - [overview](http://ejohn.org/blog/overview-of-processing/) 
+    - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
+- [three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
+    - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
+    - [Some amazing examples](http://threejs.org/examples/) 
+- [akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 
 ## Resources
 
