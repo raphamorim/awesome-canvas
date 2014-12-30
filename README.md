@@ -81,6 +81,8 @@ Where to discover more about Canvas.
 
 ### Twitter
 
+* [@jeresig](https://twitter.com/jeresig)
+* [@mrdoob](https://twitter.com/mrdoob)
 * [@soulwire](https://twitter.com/soulwire)
 * [@raphamundi](https://twitter.com/raphamundi)
 
