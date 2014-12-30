@@ -15,8 +15,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [Tools](#tools)
 
 - [Resources](#resources)
-    - [Benchmarks](#benchmarks)
-    - [Conferences](#conferences)
+    - [Talks](#talks)
     - [Books](#books)
     - [Twitter](#twitter)
     - [Websites](#websites)
@@ -65,8 +64,6 @@ Go software and plugins.
 ## Resources
 
 Where to discover more about Canvas.
-
-### Benchmarks
 
 ### Talks
 
