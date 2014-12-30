@@ -9,6 +9,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 ## Summary
 
 - [Canvas](#canvas)
+    - [Definition](#definition)
     - [Examples](#examples)
 
 - [Tools](#tools)
@@ -22,6 +23,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Tutorials](#tutorials)
 
 ## Canvas
+
+### Definition
+
+"Added in HTML5, the HTML <canvas> element can be used to draw graphics via scripting in JavaScript. For example, it can be used to draw graphs, make photo compositions, create animations or even do real-time video processing or rendering." by [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ### Examples
 
@@ -44,13 +49,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 Go software and plugins.
 
-- [processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
+- [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [overview](http://ejohn.org/blog/overview-of-processing/) 
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
+- [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/) 
-- [akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
+- [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 
 ## Resources
 
