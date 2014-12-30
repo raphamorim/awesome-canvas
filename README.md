@@ -41,6 +41,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
+* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/)
+* [3D Space Craft](http://07055944295.com/solvalou.php)
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 
 
@@ -56,6 +58,9 @@ Go software and plugins.
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/) 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
+- [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
+- [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+
 
 ## Resources
 
@@ -91,3 +96,9 @@ Where to discover more about Canvas.
 
 
 ### Tutorials
+
+- [Breakout](http://billmill.org/static/canvastutorial/) - a fantastic tutorial for any canvas programming wannabes, where he runs through the steps needed to create a Breakout clone. The tutorial consists of 12 very clear and concise steps, where you can view a demo of how your project should look so far.
+- [Procedural Drawing in Canvas](http://acko.net/blog/js1k-demo-the-making-of/) - a tutorial that explains more about how procedural drawing works so that others can also learn the skill and start producing their own patterns.
+- [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
+- [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
+- 
