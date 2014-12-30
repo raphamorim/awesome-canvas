@@ -49,7 +49,14 @@ Where to discover more about Canvas.
 
 ### Benchmarks
 
-### Conferences
+### Talks
+
+- [Google I/O 2012 - GRITS: PvP Gaming with HTML, by Colton McAnlis](https://www.youtube.com/watch?v=Prkyd5n0P7k)
+- [Mobile HTML5 Graphics Performance, by Sam Abadir](https://www.youtube.com/watch?v=_fBRJgH_c1s)
+- [The Making of an HTML5 Platform Game, by David Geary](https://www.youtube.com/watch?v=S256vAqGY6c)
+- [High Performance Mobile Web Game Development in HTML5, by Sangmin Shim](https://www.youtube.com/watch?v=T8OCEqM7mqU)
+- [HTML5 Canvas Animation with Javascript, by Josh Robertson](https://www.youtube.com/watch?v=sLt9WeyGVEQ)
+
 
 ### Books
 
