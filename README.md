@@ -37,6 +37,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
+* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) ([source code](http://cssdeck.com/labs/js-metaballs))
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
@@ -51,11 +52,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 Go software and plugins.
 
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
-    - [overview](http://ejohn.org/blog/overview-of-processing/) 
+    - [overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
-    - [Some amazing examples](http://threejs.org/examples/) 
+    - [Some amazing examples](http://threejs.org/examples/)
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
@@ -90,7 +91,7 @@ Where to discover more about Canvas.
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [Dive Into HTML5 • Canvas](http://diveintohtml5.info/canvas.html)
-- [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/) 
+- [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
 - [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
 
 
