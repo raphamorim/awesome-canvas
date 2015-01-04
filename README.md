@@ -37,6 +37,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
 * [LucidChart](http://www.lucidchart.com/documents/demo)
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
+* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) ([source code](http://cssdeck.com/labs/js-metaballs))
