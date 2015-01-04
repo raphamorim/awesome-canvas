@@ -21,6 +21,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Websites](#websites)
     - [Tutorials](#tutorials)
 
+- [License](#license)
+
 ## Canvas
 
 ### Definition
@@ -52,7 +54,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 Go software and plugins.
 
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
-    - [overview](http://ejohn.org/blog/overview-of-processing/)
+    - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
@@ -101,3 +103,8 @@ Where to discover more about Canvas.
 - [Procedural Drawing in Canvas](http://acko.net/blog/js1k-demo-the-making-of/) - a tutorial that explains more about how procedural drawing works so that others can also learn the skill and start producing their own patterns.
 - [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 - [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
+
+
+## License
+
+Check the project [MIT License](https://github.com/raphamorim/awesome-canvas/blob/master/LICENSE.md)
