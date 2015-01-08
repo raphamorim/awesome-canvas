@@ -41,6 +41,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
+* [Colorful Particles](raphamorim.com/canvas-experiments/particles) ([source code](https://github.com/raphamorim/canvas-experiments))
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) ([source code](http://cssdeck.com/labs/js-metaballs))
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
