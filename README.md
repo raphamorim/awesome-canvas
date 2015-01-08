@@ -82,6 +82,7 @@ Where to discover more about Canvas.
 
 - [HTML5 Canvas](http://shop.oreilly.com/product/0636920013327.do) by Steve Fulton, Jeff Fulton - O'Reilly. Updated: [2nd Edition](http://shop.oreilly.com/product/0636920026266.do)
 - [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by  Don Cowan
+- [Foundation HTML5 Canvas: For Games and Entertainment](http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=rawkes-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430232919) by Rob Hawkes
 
 ### Twitter
 
