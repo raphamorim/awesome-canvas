@@ -109,6 +109,7 @@ Where to discover more about Canvas.
 - [Procedural Drawing in Canvas](http://acko.net/blog/js1k-demo-the-making-of/) - a tutorial that explains more about how procedural drawing works so that others can also learn the skill and start producing their own patterns.
 - [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 - [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
+- [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
 
 
 ## License
