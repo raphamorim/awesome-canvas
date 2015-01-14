@@ -43,6 +43,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [LucidChart](http://www.lucidchart.com/documents/demo)
 * [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
+* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) ([source code)[http://cssdeck.com/labs/neatnait-canvas-rain])
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
