@@ -48,6 +48,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
+* [Wipers](http://cssdeck.com/labs/full/oluh99m6) - ([source code](http://cssdeck.com/labs/oluh99m6))
+
 * [3D Space Craft](http://07055944295.com/solvalou.php)
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
 
