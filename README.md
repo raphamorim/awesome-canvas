@@ -34,6 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 *Some best examples about with canvas.*
 
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
+* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) ([source code](http://cssdeck.com/labs/zeaklousedit))
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Colorful Particles](raphamorim.com/canvas-experiments/particles) ([source code](https://github.com/raphamorim/canvas-experiments))
