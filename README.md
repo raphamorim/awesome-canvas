@@ -33,26 +33,26 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 *Some best examples about with canvas.*
 
-* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
-* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) ([source code](http://cssdeck.com/labs/zeaklousedit))
-* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) - ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
+* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) - ([source code](http://cssdeck.com/labs/zeaklousedit))
+* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) - ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
-* [Colorful Particles](raphamorim.com/canvas-experiments/particles) ([source code](https://github.com/raphamorim/canvas-experiments))
-* [Draw Table](http://raphamorim.com/canvas-experiments/draw) ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Colorful Particles](raphamorim.com/canvas-experiments/particles) - ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Draw Table](http://raphamorim.com/canvas-experiments/draw) - ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
-* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) ([source code](http://cssdeck.com/labs/js-metaballs))
+* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) - ([source code](http://cssdeck.com/labs/js-metaballs))
 * [LucidChart](http://www.lucidchart.com/documents/demo)
 * [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/)
-* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) ([source code](http://codepen.io/ara_node/pen/nuJCG))
-* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) ([source code)[http://cssdeck.com/labs/neatnait-canvas-rain])
-* [Particles](http://codepen.io/pixelgrid/full/ECrKd) ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
-* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
+* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) - ([source code](http://codepen.io/ara_node/pen/nuJCG))
+* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) - ([source code)[http://cssdeck.com/labs/neatnait-canvas-rain])
+* [Particles](http://codepen.io/pixelgrid/full/ECrKd) - ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
+* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) - ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) - ([source code](http://cssdeck.com/labs/oluh99m6))
+* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) - ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
+* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) - ([source code](http://cssdeck.com/labs/xtunjekt))
 * [3D Space Craft](http://07055944295.com/solvalou.php)
-* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
-
 
 
 ## Tools
