@@ -33,6 +33,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 *Some best examples about with canvas.*
 
+
+* [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) - ([source code](http://codepen.io/soulwire/pen/Ffvlo))
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) - ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) - ([source code](http://cssdeck.com/labs/zeaklousedit))
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) - ([source code](https://github.com/raphamorim/canvas-experiments))
