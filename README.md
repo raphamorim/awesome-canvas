@@ -52,6 +52,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) - ([source code](http://cssdeck.com/labs/fjqj6ifd))
+* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) - ([source code](http://cssdeck.com/labs/oluh99m6))
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) - ([source code](http://cssdeck.com/labs/3d-lorenz-atractor))
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) - ([source code](http://cssdeck.com/labs/xtunjekt))
