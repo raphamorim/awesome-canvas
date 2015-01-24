@@ -41,6 +41,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Colorful Particles](raphamorim.com/canvas-experiments/particles) - ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) - ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) - ([source code)[http://cssdeck.com/labs/image-nodes])
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) - ([source code](http://cssdeck.com/labs/js-metaballs))
 * [LucidChart](http://www.lucidchart.com/documents/demo)
@@ -49,6 +50,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) - ([source code](http://cssdeck.com/labs/neatnait-canvas-rain))
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) - ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) - ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
+* [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) - ([source code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) - ([source code](http://cssdeck.com/labs/fjqj6ifd))
@@ -116,7 +118,8 @@ Where to discover more about Canvas.
 - [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 - [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
 - [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
-
+- [Create a game chracter with HTML5 and JavaScript - Part 1](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/)
+- [Create a game chracter with HTML5 and JavaScript - Part 2](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/)
 
 ## License
 
