@@ -44,6 +44,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) - ([source code)[http://cssdeck.com/labs/image-nodes])
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) - ([source code](http://cssdeck.com/labs/js-metaballs))
+* [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html)
 * [LucidChart](http://www.lucidchart.com/documents/demo)
 * [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/)
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) - ([source code](http://codepen.io/ara_node/pen/nuJCG))
