@@ -96,6 +96,7 @@ Where to discover more about Canvas.
 - [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by  Don Cowan
 - [Foundation HTML5 Canvas: For Games and Entertainment](http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=rawkes-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430232919) by Rob Hawkes
 - [HTML5 Canvas Cookbook](https://www.packtpub.com/web-development/html5-canvas-cookbook) - by Eric Rowell
+- [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/title.html) - by Josh Marinacci
 
 ### Twitter
 
