@@ -29,4 +29,6 @@ To stay on the list, package repositories should adhere to these quality standar
 
 ## Reporting issues
 
-Please open an issue if you find anything that could be improved or have suggestions for making the list a more valuable resource. We realize sometimes packages fall into abandonment or have breaking builds for extended periods of time, so if you see that, please let us know. We also realize that sometimes projects are just going through transitions or are more experimental in nature. These can still be cool, but we can indicate them as transitory or experimental -- again, just open an issue. Thanks everyone!
+Please open an issue if you find anything that could be improved or have
+suggestions for making the list a more valuable resource. We realize sometimes
+experiments/projects fall into abandonment or have breaking builds for extended periods of time, so if you see that, please let us know. We also realize that sometimes projects are just going through transitions or are more experimental in nature. These can still be cool, but we can indicate them as transitory or experimental -- again, just open an issue. Thanks everyone!
