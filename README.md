@@ -103,6 +103,8 @@ Where to discover more about Canvas.
 
 * [@jeresig](https://twitter.com/jeresig)
 * [@mrdoob](https://twitter.com/mrdoob)
+* [@paul_irish](https://twitter.com/paul_irish)
+* [@ded](https://twitter.com/ded)
 * [@soulwire](https://twitter.com/soulwire)
 * [@spielzeugz](https://twitter.com/spielzeugz)
 * [@raphamundi](https://twitter.com/raphamundi)
