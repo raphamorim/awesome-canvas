@@ -129,5 +129,4 @@ Where to discover more about Canvas.
 
 ## License
 
-[MIT License](https://github.com/raphamorim/awesome-canvas/blob/master/LICENSE.md)
-- [Raphael Amorim](https://github.com/raphamorim)
+[MIT License](https://github.com/raphamorim/awesome-canvas/blob/master/LICENSE.md) - [Raphael Amorim](https://github.com/raphamorim)
