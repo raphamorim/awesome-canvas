@@ -40,6 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) - ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
 * [Colorful Particles](raphamorim.com/canvas-experiments/particles) - ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) - ([source code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html))
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) - ([source code](https://github.com/raphamorim/canvas-experiments))
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) - ([source code)[http://cssdeck.com/labs/image-nodes])
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
