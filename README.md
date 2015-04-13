@@ -108,20 +108,18 @@ Where to discover more about Canvas.
 * [@ded](https://twitter.com/ded)
 * [@soulwire](https://twitter.com/soulwire)
 * [@spielzeugz](https://twitter.com/spielzeugz)
-* [@raphamundi](https://twitter.com/raphamundi)
 
-### Websites
+### Websites && Tutorials
 
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- [Dive Into HTML5 • Canvas](http://diveintohtml5.info/canvas.html)
+- [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - This tutorial describes how to use the <canvas> element to draw 2D graphics, starting with the basics. The examples provided should give you some clear ideas what you can do with canvas and will provide code snippets that may get you started in building your own content.
 - [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
 - [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
-
-
-### Tutorials
-
+- [Dev.Opera: HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/) - This article takes you through the basics of implementing a 2D canvas context, and using the basic canvas functions, including lines, shape primitives, images, text, and more. You are assumed to have mastered JavaScript basics already.
 - [Breakout](http://billmill.org/static/canvastutorial/) - a fantastic tutorial for any canvas programming wannabes, where he runs through the steps needed to create a Breakout clone. The tutorial consists of 12 very clear and concise steps, where you can view a demo of how your project should look so far.
+- [Canvas Demos](http://www.canvasdemos.com/) - A good font to study canvas. You can find application, games, tools and tutorials for the canvas HTML5 element.
 - [Procedural Drawing in Canvas](http://acko.net/blog/js1k-demo-the-making-of/) - a tutorial that explains more about how procedural drawing works so that others can also learn the skill and start producing their own patterns.
+- [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element)
+- [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://msdn.microsoft.com/en-us/ie/hh410106#_HTML5_canvas)
 - [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 - [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
 - [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
