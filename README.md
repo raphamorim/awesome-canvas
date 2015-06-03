@@ -55,6 +55,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) - ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) - ([source code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
+* [Raining Day](http://raphamorim.com/raining-day/) - Raindrops using canvas
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) - ([source code](http://cssdeck.com/labs/fjqj6ifd))
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
@@ -105,10 +106,10 @@ Where to discover more about Canvas.
 
 * [@jeresig](https://twitter.com/jeresig)
 * [@mrdoob](https://twitter.com/mrdoob)
-* [@paul_irish](https://twitter.com/paul_irish)
 * [@ded](https://twitter.com/ded)
 * [@soulwire](https://twitter.com/soulwire)
 * [@spielzeugz](https://twitter.com/spielzeugz)
+* [@paul_irish](https://twitter.com/paul_irish)
 
 ### Websites && Tutorials
 
