@@ -12,7 +12,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Definition](#definition)
     - [Examples](#examples)
 
-- [Tools](#tools)
+- [Libraries](#libraries)
 
 - [Resources](#resources)
     - [Talks](#talks)
@@ -65,10 +65,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [3D Space Craft](http://07055944295.com/solvalou.php)
 
 
-## Tools
+## Libraries
 
-Go software and plugins.
-
+### To draw using canvas
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
@@ -79,6 +78,9 @@ Go software and plugins.
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+
+### For other purposes, but still use canvas
+- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
 
 ## Resources
