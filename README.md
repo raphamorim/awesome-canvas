@@ -34,25 +34,25 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 *Some best examples about with canvas.*
 
 
-* [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) - ([source code](http://codepen.io/soulwire/pen/Ffvlo))
-* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) - ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5))
-* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) - ([source code](http://cssdeck.com/labs/zeaklousedit))
-* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) - ([source code](https://github.com/raphamorim/canvas-experiments))
-* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended)
-* [Colorful Particles](raphamorim.com/canvas-experiments/particles) - ([source code](https://github.com/raphamorim/canvas-experiments))
-* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) - ([source code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html))
-* [Draw Table](http://raphamorim.com/canvas-experiments/draw) - ([source code](https://github.com/raphamorim/canvas-experiments))
-* [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) - ([source code](http://cssdeck.com/labs/fibrous))
-* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) - ([source code)[http://cssdeck.com/labs/image-nodes])
+* [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) - ([source code](http://codepen.io/soulwire/pen/Ffvlo)) • A result of a study creating performant particles with Canvas 2D.
+* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) - ([source code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)) • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
+* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) - ([source code](http://cssdeck.com/labs/zeaklousedit)) • A great example about how to create circular rings using canvas.
+* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
+* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) - ([source code](https://github.com/raphamorim/canvas-experiments)) • A cloth 3D effect fork.
+* [Colorful Particles](http://raphamorim.com/canvas-experiments/particles) - ([source code](https://github.com/raphamorim/canvas-experiments)) • Experiment show how to generates random particles. Very simple code for assimilate.
+* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) - ([source code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)) • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+* [Draw Table](http://raphamorim.com/canvas-experiments/draw) - ([source code](https://github.com/raphamorim/canvas-experiments)) • A simple example about events using canvas.
+* [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) - ([source code](http://cssdeck.com/labs/fibrous)) • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
+* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) - ([source code)[http://cssdeck.com/labs/image-nodes]) • Interactive nodes built from image data. Use the mouse to play.
 * [Inception](http://raphamorim.com/canvas-experiments/inception) - Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
-* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) - ([source code](http://cssdeck.com/labs/js-metaballs))
-* [Linjer](http://lab.hakim.se/linjer/)
-* [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html)
-* [LucidChart](http://www.lucidchart.com/documents/demo)
-* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/)
-* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) - ([source code](http://codepen.io/ara_node/pen/nuJCG))
-* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) - ([source code](http://cssdeck.com/labs/neatnait-canvas-rain))
-* [Particles](http://codepen.io/pixelgrid/full/ECrKd) - ([source code](http://codepen.io/pixelgrid/pen/ECrKd))
+* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) - ([source code](http://cssdeck.com/labs/js-metaballs)) • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
+* [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
+* [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
+* [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
+* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A good example about fractal renderer using canvas.
+* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) - ([source code](http://codepen.io/ara_node/pen/nuJCG)) • A example about typeface animation.
+* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) - ([source code](http://cssdeck.com/labs/neatnait-canvas-rain)) - A good reference to create rain particles.
+* [Particles](http://codepen.io/pixelgrid/full/ECrKd) - ([source code](http://codepen.io/pixelgrid/pen/ECrKd)) • A good reference to create astonishing particles.
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) - ([source code](http://codepen.io/VincentGarreau/pen/pnlso))
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) - ([source code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds))
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) - A game created using canvas
