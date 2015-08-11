@@ -133,4 +133,4 @@ Where to discover more about Canvas.
 
 ## License
 
-[MIT License](https://github.com/raphamorim/awesome-canvas/blob/master/LICENSE.md) - [Raphael Amorim](https://github.com/raphamorim)
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
