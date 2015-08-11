@@ -31,7 +31,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### Examples
 
-*Some best examples about with canvas.*
+*Some good examples about creation with canvas.*
 
 
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
@@ -44,26 +44,27 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-* [Inception](http://raphamorim.com/canvas-experiments/inception) • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie ([source code](https://github.com/raphamorim/canvas-experiments))
+* [Inception](http://raphamorim.com/canvas-experiments/inception) [[source code](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
+* [Just Canvas](http://raphamorim.com/just-canvas/) [[show me the code](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 * [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
 * [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
 * [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
-* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A good example about fractal renderer using canvas.
+* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A example about fractal renderer using canvas.
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) [[show me the code](http://codepen.io/ara_node/pen/nuJCG)] • A example about typeface animation.
-* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A good reference to create rain particles.
-* [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • A good reference to create astonishing particles.
-* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)]
-* [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)]
-* [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A game created using canvas
-* [Raining Day](http://raphamorim.com/raining-day/) • Raindrops using canvas
-* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/)
-* [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)]
-* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
-* [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)]
-* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)]
-* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt)[[show me the code](http://cssdeck.com/labs/xtunjekt)]
-* [3D Space Craft](http://07055944295.com/solvalou.php)
+* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A reference to create rain particles.
+* [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • Reference to create astonishing particles.
+* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created usign canvas.
+* [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
+* [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
+* [Raining Day](http://raphamorim.com/raining-day/) • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazig example about line movement and animation.
+* [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
+* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
+* [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
+* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
+* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt)[[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
+* [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
 
 
 ## Libraries
