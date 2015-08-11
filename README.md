@@ -38,9 +38,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)) • A cloth 3D effect fork.
-* [Colorful Particles](http://raphamorim.com/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)) • Experiment show how to generates random particles. Very simple code for assimilate.
-* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)) • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+* [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
+* [Colorful Particles](http://raphamorim.com/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
@@ -63,7 +63,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
-* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt)[[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
+* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
 * [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
 
 
@@ -108,12 +108,11 @@ Where to discover more about Canvas.
 
 ### Twitter
 
-* [@jeresig](https://twitter.com/jeresig)
-* [@mrdoob](https://twitter.com/mrdoob)
-* [@ded](https://twitter.com/ded)
-* [@soulwire](https://twitter.com/soulwire)
-* [@spielzeugz](https://twitter.com/spielzeugz)
-* [@paul_irish](https://twitter.com/paul_irish)
+* [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js)
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js)
+* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
+* [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
+* [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 
 ### Websites && Tutorials
 
