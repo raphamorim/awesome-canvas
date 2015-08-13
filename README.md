@@ -67,6 +67,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
 * [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
+* [Wormz](https://www.chromeexperiments.com/experiment/wormz) • Particles experiment.
 
 
 ## Libraries
