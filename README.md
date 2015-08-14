@@ -36,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
+* [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
 * [Cloth Effect](http://raphamorim.com/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
@@ -44,7 +45,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Draw Table](http://raphamorim.com/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-* [Inception](http://raphamorim.com/canvas-experiments/inception) [[source code](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
+* [Inception](http://raphamorim.com/canvas-experiments/inception) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
 * [Just Canvas](http://raphamorim.com/just-canvas/) [[show me the code](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 * [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
@@ -57,7 +58,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created usign canvas.
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
-* [Raining Day](http://raphamorim.com/raining-day/) • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+* [Raining Day](http://raphamorim.com/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazig example about line movement and animation.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
