@@ -117,6 +117,7 @@ Where to discover more about Canvas.
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
+* [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
 ### Websites && Tutorials
 
