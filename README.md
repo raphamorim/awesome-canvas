@@ -137,6 +137,7 @@ Where to discover more about Canvas.
 - [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
 - [Create a game chracter with HTML5 and JavaScript - Part 1](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/1/)
 - [Create a game chracter with HTML5 and JavaScript - Part 2](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/)
+- [Khan Academy - Hour of Drawing with Code](https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code)
 
 ## License
 
