@@ -76,6 +76,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 ### To draw using canvas
 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
+- [Backgroundify!](https://github.com/vltr/bckgrndfy) is a polygon-based background generator where the final result is written as a canvas.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
