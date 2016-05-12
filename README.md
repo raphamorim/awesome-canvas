@@ -77,6 +77,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
+- [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
+and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -89,6 +91,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+
 
 ### For other purposes, but still use canvas
 - [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
