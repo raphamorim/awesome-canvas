@@ -88,7 +88,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [Proton](https://github.com/a-jie/Proton) - Proton is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
+- [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
 - [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
