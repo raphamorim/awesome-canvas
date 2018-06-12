@@ -62,6 +62,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazig example about line movement and animation.
+* [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
