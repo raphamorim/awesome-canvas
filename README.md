@@ -20,8 +20,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
     - [Talks](#talks)
     - [Books](#books)
     - [Twitter](#twitter)
-    - [Websites](#websites)
-    - [Tutorials](#tutorials)
+    - [Websites and Tutorials](#websites-and-tutorials)
 
 - [License](#license)
 
@@ -29,7 +28,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### Definition
 
-"Added in HTML5, the HTML <canvas> element can be used to draw graphics via scripting in JavaScript. For example, it can be used to draw graphs, make photo compositions, create animations or even do real-time video processing or rendering." by [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+"Added in HTML5, the HTML &lt;canvas> element can be used to draw graphics via scripting in JavaScript. For example, it can be used to draw graphs, make photo compositions, create animations or even do real-time video processing or rendering." by [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ### Examples
 
@@ -79,8 +78,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
-- [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 - [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+- [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
@@ -95,6 +94,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
 - [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
 - [Pts.js](https://ptsjs.org) - Pts is a javascript library for visualization and creative-coding.
+- [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - easily add multiple responsive, accessible and interactive &lt;canvas> elements to a web page
 - [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
@@ -136,7 +136,7 @@ Where to discover more about Canvas.
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
-### Websites && Tutorials
+### Websites and Tutorials
 
 - [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - This tutorial describes how to use the <canvas> element to draw 2D graphics, starting with the basics. The examples provided should give you some clear ideas what you can do with canvas and will provide code snippets that may get you started in building your own content.
 - [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
