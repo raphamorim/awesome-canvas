@@ -57,11 +57,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) [[show me the code](http://codepen.io/ara_node/pen/nuJCG)] • A example about typeface animation.
 * [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A reference to create rain particles.
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • Reference to create astonishing particles.
-* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created usign canvas.
+* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
-* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazig example about line movement and animation.
+* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
