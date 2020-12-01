@@ -70,6 +70,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
 * [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
 * [Wormz](https://www.chromeexperiments.com/experiment/wormz) • Particles experiment.
+* [tsParticles](https://codepen.io/tv/DPOage) [[show me the code](https://codepen.io/collection/DPOage)] • Beautiful particles created using canvas.
 
 
 ## Libraries
@@ -102,6 +103,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 - [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [zrender](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
+- [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight library to easily add highly configurable particles animation to your website
 
 ### For other purposes, but still use canvas
 - [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
