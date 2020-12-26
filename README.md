@@ -59,6 +59,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
+* [PixelCraft](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
