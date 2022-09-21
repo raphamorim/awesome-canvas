@@ -85,6 +85,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+- [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 - [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
@@ -96,6 +97,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
 - [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
 - [Pts.js](https://ptsjs.org) - Pts is a javascript library for visualization and creative-coding.
+- [Rough.js](https://roughjs.com/) - Rough.js is a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 - [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - easily add multiple responsive, accessible and interactive &lt;canvas> elements to a web page
 - [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
