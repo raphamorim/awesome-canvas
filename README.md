@@ -150,7 +150,7 @@ Where to discover more about Canvas.
 - [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
 - [Dev.Opera: HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/) - This article takes you through the basics of implementing a 2D canvas context, and using the basic canvas functions, including lines, shape primitives, images, text, and more. You are assumed to have mastered JavaScript basics already.
 - [Breakout](http://billmill.org/static/canvastutorial/) - a fantastic tutorial for any canvas programming wannabes, where he runs through the steps needed to create a Breakout clone. The tutorial consists of 12 very clear and concise steps, where you can view a demo of how your project should look so far.
-- [Canvas Demos](http://www.canvasdemos.com/) - A good font to study canvas. You can find application, games, tools and tutorials for the canvas HTML5 element.
+- [Canvas Demos by David Walsh](https://davidwalsh.name/canvas-demos) - 9 Mind-Blowing Canvas Demos with their respective source code.
 - [Procedural Drawing in Canvas](http://acko.net/blog/js1k-demo-the-making-of/) - a tutorial that explains more about how procedural drawing works so that others can also learn the skill and start producing their own patterns.
 - [The canvas element in the HTML5 draft standard](https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element)
 - [Internet Explorer 9 Guide for Developers: HTML5 canvas element](https://msdn.microsoft.com/en-us/ie/hh410106#_HTML5_canvas)
