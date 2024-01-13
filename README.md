@@ -53,6 +53,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
 * [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
 * [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A example about fractal renderer using canvas.
+* [Matrix Animation](https://matrix.dotglitch.dev/) [[show me the code](https://github.com/knackstedt/matrix-animation)] • A Matrix Rain animation using canvas.
 * [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) [[show me the code](http://codepen.io/ara_node/pen/nuJCG)] • A example about typeface animation.
 * [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A reference to create rain particles.
 * [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • Reference to create astonishing particles.
