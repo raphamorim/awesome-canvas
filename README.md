@@ -36,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
+* [Block Blast Training Platform](https://block-blast01.netlify.app/) [[show me the code](https://github.com/dffge552/block-blast)] • 8×8 block puzzle game featuring guaranteed solvable piece generation using 4 algorithms and geometric perspective transform OCR for screenshot recognition.
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
