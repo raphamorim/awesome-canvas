@@ -51,6 +51,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Just Canvas](http://raphamorim.io/just-canvas/) [[show me the code](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 * [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
 * [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
+* [Lumitree](https://lumitree.art) • A collaborative art tree where visitors plant seeds that grow into unique interactive micro-worlds — each one a self-contained Canvas 2D artwork under 50KB with zero dependencies.
 * [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
 * [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A example about fractal renderer using canvas.
 * [Matrix Animation](https://matrix.dotglitch.dev/) [[show me the code](https://github.com/knackstedt/matrix-animation)] • A Matrix Rain animation using canvas.
