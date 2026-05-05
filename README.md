@@ -68,6 +68,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
 * [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) particles animations samples
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
+* [Vizz.fm](https://vizz.fm) • Browser-based music visualizer with customizable Three.js scenes and presets.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
