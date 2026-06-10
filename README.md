@@ -107,6 +107,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
+- [textmode.js](https://github.com/humanbydefinition/textmode.js) is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
 - [tsParticles](https://particles.matteobruni.it/) is a lightweight library for creating easily particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 - [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
