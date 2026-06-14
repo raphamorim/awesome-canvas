@@ -36,12 +36,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
+* [400 Examples](https://zimjs.com/examples.html) [[show me the examples](https://zimjs.com/examples.html)] • Parallax, particles, noise, animation, physics, VR, and 35 collection mini-sites.
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
 * [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
 * [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+* [Components for UI](https://zimjs.com/uiux.html) [[show me examples](https://zimjs.com/uiux.html)] • Integrated components - see the MORE section for reasons.
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 * [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
@@ -64,6 +66,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
+* [Story Book](https://codepen.io/zimjs/pen/PoWvZVZ) [[show me the code](https://codepen.io/zimjs/pen/PoWvZVZ)] • An interactive book made with the Canvas showing Canvas Code.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
 * [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) particles animations samples
@@ -84,7 +87,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [Chart.js](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
-- [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+- [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5. Also see the ZIM entry below which adds many conveniences, components and controls to CreateJS.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
@@ -153,6 +156,7 @@ Where to discover more about Canvas.
 - [Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) - This tutorial describes how to use the <canvas> element to draw 2D graphics, starting with the basics. The examples provided should give you some clear ideas what you can do with canvas and will provide code snippets that may get you started in building your own content.
 - [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
 - [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
+- [Creative Coding with the Canvas and JavaScript](https://zimjs.com/learnjavascript.html) - 40 video tutorials to learn JavaScript with creative coding on the Canvas.
 - [Dev.Opera: HTML5 Canvas — the Basics](https://dev.opera.com/articles/html5-canvas-basics/) - This article takes you through the basics of implementing a 2D canvas context, and using the basic canvas functions, including lines, shape primitives, images, text, and more. You are assumed to have mastered JavaScript basics already.
 - [Breakout](http://billmill.org/static/canvastutorial/) - a fantastic tutorial for any canvas programming wannabes, where he runs through the steps needed to create a Breakout clone. The tutorial consists of 12 very clear and concise steps, where you can view a demo of how your project should look so far.
 - [Canvas Demos by David Walsh](https://davidwalsh.name/canvas-demos) - 9 Mind-Blowing Canvas Demos with their respective source code.
@@ -167,6 +171,9 @@ Where to discover more about Canvas.
 - [Khan Academy - Hour of Drawing with Code](https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code)
 - [Making a Lunar Lander in JavaScript](http://students.cs.ucl.ac.uk/schoolslab/projects/HT5) - A 5 lesson tutorial that explain how to make a Lunar Lander game in JavaScript.
 - [W3Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp) - Tutorial covering various features and methods and with many practical examples
+- [Your Guide to When to Use a JavaScript Canvas Library or Framework](https://drabstract.medium.com/your-guide-to-when-to-use-a-javascript-canvas-library-or-framework-efb30d526797) - Guide showing when to use traditial DOM and when to use Canvas.
+- [Your Guide to Selecting a JavaScript Canvas Library or Framework](https://drabstract.medium.com/your-guide-to-selecting-a-javascript-canvas-library-or-framework-3584f4512a30) - A comparison of several Canvas libraries and frameworks.
+- [Your Guide to Coding Creativity on the Canvas](https://drabstract.medium.com/your-guide-to-coding-creativity-on-the-canvas-ada0996298f6) - A dozen-part guide including shapes, components, interactivity, animation, accessibility, assets, style, responsive and adaptive design, and controls.
 
 ## License
 
