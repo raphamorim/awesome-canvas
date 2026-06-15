@@ -166,6 +166,7 @@ Where to discover more about Canvas.
 - [Create a game chracter with HTML5 and JavaScript - Part 2](http://www.williammalone.com/articles/create-html5-canvas-javascript-game-character/2/)
 - [Khan Academy - Hour of Drawing with Code](https://www.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/v/welcome-hour-of-code)
 - [Making a Lunar Lander in JavaScript](http://students.cs.ucl.ac.uk/schoolslab/projects/HT5) - A 5 lesson tutorial that explain how to make a Lunar Lander game in JavaScript.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/canvas-graphics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [W3Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp) - Tutorial covering various features and methods and with many practical examples
 
 ## License
