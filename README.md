@@ -79,6 +79,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### To draw using canvas
 
+- [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - Canvas 2D spreadsheet engine rendering 100K+ rows at 60fps with zero dependencies. Multi-layer rendering pipeline with frozen panes, merged cells, and real-time collaboration.
 - [Akihabara](http://www.kesiev.com/akihabara/) is HTML5 games library for making pixel based games using Javascript and the canvas tag.
 - [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) is Skia's Canvas API compiled to WebAssembly, providing high-performance 2D graphics rendering for web applications.
 - [Chart.js](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
