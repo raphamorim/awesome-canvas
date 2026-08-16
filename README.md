@@ -109,6 +109,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
     - [Some amazing examples](http://threejs.org/examples/)
 - [textmode.js](https://github.com/humanbydefinition/textmode.js) is a lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics in the browser.
 - [tsParticles](https://particles.matteobruni.it/) is a lightweight library for creating easily particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
+- [Turrets High-Tech](https://github.com/cotera2024/turrets-Hig-tech) - A modular high-tech turret library and interactive demo for HTML5 Canvas.
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 - [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [ZIM](https://zimjs.com/) - ZIM is a general Canvas Framework with simple, powerful JavaScript that lets everyone, from beginners to professionals, code creativity.
