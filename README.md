@@ -87,6 +87,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
+- [hyperbolic-map](https://github.com/jpivarski/hyperbolic-map) - a JavaScript library that displays an interactive, scrollable map in hyperbolic Poincaré disk projection in a Canvas. Scroll through Escher-style tilings, genealogical trees with custom art, make cellular automata visualizations, etc., by writing applications and importing your own art from SVG.
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 - [Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells 
