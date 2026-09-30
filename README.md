@@ -35,6 +35,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 *Some good examples about creation with canvas.*
 
 
+* [1 Million Emojis](https://chriswijnia.com/lab/emoji) • A shared 1,000 × 1,000 emoji canvas painted live by visitors, with Jev adding an emoji after each stroke; stamps are drawn from ASCII art.
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
