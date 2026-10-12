@@ -84,6 +84,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [Chart.js](https://github.com/chartjs/Chart.js) is a lightweight JavaScript library for creating dynamic and visually appealing charts using the HTML5 Canvas element.
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
+- [Depth](https://github.com/rekurt/depth) - A framework-agnostic TypeScript library for rendering cumulative order-book depth charts with Canvas.
 - [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
@@ -91,6 +92,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 - [Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells 
 - [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
+- [OpenKline](https://github.com/rekurt/openkline) - A TypeScript library for Canvas candlestick charts, indicators and drawing tools, with React and Vue wrappers.
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
