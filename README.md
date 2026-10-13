@@ -116,6 +116,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 
 ### For other purposes, but still use canvas
 - [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
+- [SnapDOM](https://github.com/zumerlab/snapdom) - Render DOM elements to canvas and export them as PNG, JPG, WebP or SVG.
 
 
 ## Resources
