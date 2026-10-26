@@ -63,6 +63,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [PixelCraft](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
+* [Space Simulator Online](https://spacesimulator.online/) • Interactive 3D Solar System, Milky Way, and 6,000+ NASA exoplanet explorer built with HTML5 Canvas, WebGL2, and WebGPU.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
