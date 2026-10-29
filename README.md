@@ -66,6 +66,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+* [Trick or Take](https://trickortake.com/) [[show me the code](https://github.com/zicojiao/trick-or-take)] • An open-source, edge-native multiplayer Halloween web game rendered in pure vanilla Canvas 2D (<45KB bundle size, 60 FPS, procedural Web Audio API).
 * [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) particles animations samples
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
