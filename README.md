@@ -62,6 +62,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
 * [PixelCraft](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+* [SimplePixelArt](https://simplepixelart.com/editor) • A pixel-art editor for game sprites and tilesets drawn on canvas, with layers, animation frames and palettes.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
