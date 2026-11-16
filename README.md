@@ -94,6 +94,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+- [particle-logo-canvas](https://github.com/88slash/particle-logo-canvas) - Zero-dependency 2D Canvas micro-runtime that samples SVG paths and coordinates into interactive 60FPS particle animations.
 - [Pencil.js](https://pencil.js.org/) - Nice modular Javascript library with clear OOP syntaxe and lots of features.
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
