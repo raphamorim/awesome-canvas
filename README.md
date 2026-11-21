@@ -91,6 +91,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 - [Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells 
 - [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
+- [LovelyChart](https://github.com/Ajaxy/lovely-chart) - Telegram-style interactive charts on canvas: line, area, bar, step, pie and donut, with a minimap and drill-down zoom.
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
